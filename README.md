@@ -6,8 +6,8 @@ google hacking tool
 配置：
 1.设置代理
 [![UTXkyF.md.png](https://s1.ax1x.com/2020/07/22/UTXkyF.md.png)](https://imgchr.com/i/UTXkyF)
-2.设置cookie
-
+2.设置cookie（自己创建cookie.py文件）
+![UTjSne.png](https://s1.ax1x.com/2020/07/22/UTjSne.png)
 
 使用：
 接收参数site（可选）  -s –site  （也可以直接吧site语句写在query的txt里）
