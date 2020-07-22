@@ -5,7 +5,7 @@ google hacking tool
 
 配置：
 1.设置代理
-![UTXkyF.png](https://s1.ax1x.com/2020/07/22/UTXkyF.png)
+[![UTXkyF.md.png](https://s1.ax1x.com/2020/07/22/UTXkyF.md.png)](https://imgchr.com/i/UTXkyF)
 2.设置cookie
 
 
